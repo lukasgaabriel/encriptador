@@ -26,11 +26,11 @@ El proyecto está compuesto por tres archivos principales:
 
 1. Clona este repositorio en tu máquina local.
     ```bash
-    git clone https://github.com/tu_usuario/encriptador-texto.git
+    git clone https://github.com/lukasgaabriel/encriptador.git
     ```
 2. Navega a la carpeta del proyecto.
     ```bash
-    cd encriptador-texto
+    cd encriptador
     ```
 3. Abre el archivo `index.html` en tu navegador preferido para usar el encriptador.
 
